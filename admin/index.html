@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <title>Document</title>
+  
+  <link rel="stylesheet" href="../public/style/style.css">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+    }
+    body form select {
+      font-size: 26px;
+    }
+    body form input {
+      font-size: 26px;
+    }
+    body form button {
+      font-size: 26px;
+    }
+  </style>
+</head>
+<body>
+  <form class="DateForm">
+    <select name="month">
+      <option value="jan">jan</option>
+      <option value="feb">feb</option>
+      <option value="mar">mar</option>
+      <option value="apr">apr</option>
+      <option value="may">may</option>
+      <option value="jun">jun</option>
+      <option value="jul">jul</option>
+      <option value="aug">aug</option>
+      <option value="sep">sep</option>
+      <option value="oct">oct</option>
+      <option value="nov">nov</option>
+      <option value="dec">dec</option>
+    </select>
+    <input type="number" name="year" placeholder="year">
+
+      <input type="number" name="day" placeholder="day">
+    <input type="text" name="Coach" value="Jamal Belmadi" placeholder="coach">
+    
+    <div class="Score">
+      <input type="text" name="Team_1" value="ALGERIA 🇩🇿">
+      <input type="number" name="Gools_1" >
+      <input type="text" name="Team_2" >
+      <input type="number" name="Gools_2" >
+    </div>
+    <button>submit</button>
+  </form>
+
+  <script type="module" src="./admin.js"></script>
+</body>
+</html>
