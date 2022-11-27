@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+form {
+  width: 90%;
+  padding: 4px;
+  overflow: hidden;
+  background: red;
+  border-radius: 6px;
+  display: grid;
+  grid-gap: 4px;
+}
+
+input, select, button {
+  width: 100%;
+}
+
+.FormDate {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.FormScore {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
