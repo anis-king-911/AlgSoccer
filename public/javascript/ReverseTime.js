@@ -1,50 +1,51 @@
- function GetReversedTime(arg) {
-  const two = new Date(arg);
+function GetReversedTime(arg) {
+  const one = Number(arg);
+  const two = new Date(one);
   const day = two.getDate();
   let month = two.getMonth();
   const year = two.getFullYear();
   
-  switch(month) {
+  switch (month) {
     case 0:
       month = 'jan'
-    break;
+      break;
     case 1:
       month = 'feb'
-    break;
+      break;
     case 2:
       month = 'mar'
-    break;
+      break;
     case 3:
       month = 'apr'
-    break;
+      break;
     case 4:
       month = 'may'
-    break;
+      break;
     case 5:
       month = 'jun'
-    break;
+      break;
     case 6:
       month = 'jul'
-    break;
+      break;
     case 7:
       month = 'agt'
-    break;
+      break;
     case 8:
       month = 'spt'
-    break;
+      break;
     case 9:
       month = 'oct'
-    break;
+      break;
     case 10:
       month = 'nov'
-    break;
+      break;
     case 11:
       month = 'dec'
-    break;
+      break;
   }
-  
-  const FullDate = `${month} ${day}, ${year}`;                                  
+
+  const FullDate = `${month} ${day}, ${year}`;
   return FullDate
 }
 
-export default GetReversedTime
+export { GetReversedTime }

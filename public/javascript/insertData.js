@@ -1,5 +1,5 @@
-export default async function insertData(props) {
-  const { database, ref, child, set } = await import('/public/javascript/export.js');
+async function insertData(props) {
+  const { database, ref, child, set } = await import('./export.js');
   const { Coach, Team_1, Gools_1, Team_2, Gools_2, date } = props;
   const databaseRef = ref(database, 'AlgVs/');
   const databaseChild = child(databaseRef, `${date}/`);
@@ -13,3 +13,5 @@ export default async function insertData(props) {
     form.reset();
   }).catch(error => console.log(error));
 }
+
+export { insertData }

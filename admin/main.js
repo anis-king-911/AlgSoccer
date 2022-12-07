@@ -3,8 +3,7 @@ const form = document.querySelector('form')
 form.addEventListener('submit', async (event) => {
   event.preventDefault();
   
- const modules = await import('/public/javascript/insertData.js');
- const insertData = await modules.default;
+ const { insertData } = await import('../public/javascript/insertData.js');
   
   const obj = await {
     'Coach': form.Coach.value,

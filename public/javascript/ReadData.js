@@ -1,6 +1,6 @@
-export default async function LoadData(table) {
+async function LoadData(table) {
   const { database, ref, onValue } = await import('./export.js');
-  const { DataForm } = await import('./DataForm.js');
+  const { DataForm, Row } = await import('./DataForm.js');
   const { GetReversedTime } = await import('./ReverseTime.js');
   const databaseRef = await ref(database, 'AlgVs/');
 
@@ -18,6 +18,8 @@ export default async function LoadData(table) {
   })
 }
 
+
+export default LoadData;
 ////////////////////////////////////////////////////////////////////////
 /*
 export const UpdateData = () => {
