@@ -1,9 +1,15 @@
-async function LoadData(table) {
+async function LoadData(table, boxs) {
   const { database, ref, onValue } = await import('./export.js');
-  const { DataForm, Row } = await import('./DataForm.js');
+  const { Row } = await import('./Row.js');
   const { GetReversedTime } = await import('./ReverseTime.js');
   const databaseRef = await ref(database, 'AlgVs/');
-
+  
+  const CasesBg = {
+    'win': 'limegreen',
+    'loss': 'red',
+    'draw': 'yellow'
+  }
+  
   await onValue(databaseRef, (snapshot) => {
     table.innerHTML = '';
     snapshot.forEach((Game) => {
@@ -12,9 +18,18 @@ async function LoadData(table) {
       const TimeFunc = GetReversedTime(data.Time);
 
       data.Coach === 'Jamal Belmadi' ?
-        table.innerHTML += DataForm(data, TimeFunc, key) :
+        table.innerHTML += Row(data, TimeFunc, key) :
         '';
     })
+    const games = Object.values(snapshot.val()).map(item => item.Coach==='Jamal Belmadi'?item:'').filter(i=>i);
+    const gamesCases = games.map(item => item.Gools_1===item.Gools_2?'draw':item.Gools_1>item.Gools_2?'win':'loss');
+    
+    boxs.forEach((box) => {
+      box.style.background = CasesBg[box.classList[1]];
+      const casesSize = gamesCases.filter(i=>i===box.classList[1]);
+      box.innerHTML += `${casesSize.length} ${box.classList[1]}`;
+    })
+    
   })
 }
 
