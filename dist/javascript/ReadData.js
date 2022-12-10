@@ -1,4 +1,4 @@
-async function LoadData(table, boxs) {
+async function LoadData(table, boxs, score) {
   const { database, ref, onValue } = await import('./export.js');
   const { Row } = await import('./Row.js');
   const { GetReversedTime } = await import('./ReverseTime.js');
@@ -30,6 +30,10 @@ async function LoadData(table, boxs) {
       box.innerHTML += `${casesSize.length} ${box.classList[1]}`;
     })
     
+    const scored = games.map(i=>i.Gools_1).map(i=>Number(i)).reduce((a,b)=>a+b);
+    const received = games.map(i=>i.Gools_2).map(i=>Number(i)).reduce((a,b)=>a+b);
+    
+    score.innerHTML = `Scored ${scored}, received ${received}`;
   })
 }
 

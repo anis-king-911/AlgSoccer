@@ -13,7 +13,7 @@ export function Row({Team_1, Team_2, Gools_1, Gools_2, Coach}, TimeFunc, key) {
   <td>${Team_1}</td>
   <td>${Gools_1}-${Gools_2}</td>
   <td>${Team_2}</td>
-  <td>${Coach}</td>
+  <!--td>${Coach}</td-->
 </tr>
   `;
 }

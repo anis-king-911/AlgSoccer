@@ -1,8 +1,12 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
 body {
   margin: 0;
   padding: 0;
   padding-bottom: 20px;
-  font-family: sans-serif;
 }
 
 /* ———————————————————————————————————— */
@@ -40,6 +44,14 @@ form {
 }
 .Score input[type="text"] {
   width: 96%;
+}
+
+/* ———————————————————————————————————— */
+
+.Goals {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
 }
 
 /* ———————————————————————————————————— */
