@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 20px;
+}
+
+/* ———————————————————————————————————— */
+
+table {
+  text-align: center;
+  margin: auto;
+  text-shadow: 0 0 3px #fff;
+  font-size: 16px;
+  font-weight: bolder;
+}
+tr td:nth-child(3) {
+  text-align: left;
+}
+tr td {
+  padding: 4px 16px;
+}
+
+/* ———————————————————————————————————— */
+
+form {
+  width: 90%;
+  margin: 0 auto;
+  padding: 4px;
+  display: grid;
+  grid-gap: 4px;
+  background: #f00;
+}
+.Score {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.Score input[type="number"] {
+  width: 90%;
+}
+.Score input[type="text"] {
+  width: 96%;
+}
+
+/* ———————————————————————————————————— */
+
+.Goals {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  background: #eee;
+  font-weight: bolder;
+}
+
+/* ———————————————————————————————————— */
+
+.boxs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.box {
+  font-size: 18px;
+  font-weight: bolder;
+  padding: 10px;
+  border: 1px solid #444;
+  border-radius: 10px;
+}
+
+/* ———————————————————————————————————— */
+
+.btns {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 4px;
+  display: grid;
+  grid-gap: 4px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.btns button {
+  font-weight: bolder;
+  font-size: 20px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  box-shadow: 0 0 6px .5px #000;
+}
+
+/* ———————————————————————————————————— */
+
+@media only screen and (max-width: 400px) {
+  table {
+    font-size: 8px;
+  }
+  tr td {
+    padding: 2px 8px;
+  }
+  .btns {
+    width: 98%;
+    padding: 2px;
+    grid-gap: 2px;
+  }
+  .btns button {
+    font-size: 10px;
+    padding: 0;
+  }
+}
+

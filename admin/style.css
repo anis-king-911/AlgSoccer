@@ -7,33 +7,38 @@
 body {
   margin: 0;
   padding: 0;
-  min-height: 100vh;
-  display: grid;
-  place-items: center;
+}
+
+fieldset {
+  width: 90%;
+  margin: 10px auto 0;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+legend {
+  background: #000;
+  border-radius: 10px;
+  padding: 6px 10px;
+  color: #fff;
 }
 
 form {
-  width: 90%;
-  padding: 4px;
-  overflow: hidden;
-  background: red;
-  border-radius: 6px;
+  width: 100%;
   display: grid;
   grid-gap: 4px;
 }
 
-input, select, button {
+input, button {
   width: 100%;
-}
-
-.FormDate {
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  padding: 4px;
+  border: 1px solid #000;
+  border-radius: 6px;
 }
 
 .FormScore {
   width: 100%;
   display: grid;
+  grid-gap: 4px;
   grid-template-columns: 2fr 1fr;
 }

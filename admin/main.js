@@ -1,4 +1,4 @@
-const form = document.querySelector('form')
+const form = document.querySelector('form');
 
 form.addEventListener('submit', async (event) => {
   event.preventDefault();
@@ -11,21 +11,9 @@ form.addEventListener('submit', async (event) => {
     'Team_2': form.Team_2.value,
     'Gools_1': form.Gools_1.value,
     'Gools_2': form.Gools_2.value,
-    'date': GetDate({
-        'month': form.month.value,
-        'day': form.day.value,
-        'year': form.year.value
-      })
+    'Time': new Date(form.date.value).getTime(),
   }
 
   insertData(obj);
+  form.reset();
 })
-
-function GetDate(props) {
-  const { day, month, year } = props;
-  const string = `${month} ${day}, ${year}`;
-  const date = new Date(string);
-  const time = date.getTime();
-
-  return time;
-}
