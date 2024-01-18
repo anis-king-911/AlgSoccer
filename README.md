@@ -1,4 +1,4 @@
 # AlgSoccer
 
-[https://alg-soccer.vercel.app/](Vercel) <br />
-[https://alg-soccer.netlify.app/](Netlify)
+[Vercel](https://alg-soccer.vercel.app/)
+[Netlify](https://alg-soccer.netlify.app/)

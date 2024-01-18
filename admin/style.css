@@ -29,7 +29,12 @@ form {
   grid-gap: 4px;
 }
 
-input, button {
+label {
+  display: block;
+  width: 100%;
+}
+
+input, select, button {
   width: 100%;
   padding: 4px;
   border: 1px solid #000;

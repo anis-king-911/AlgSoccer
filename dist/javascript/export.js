@@ -4,7 +4,7 @@ import {
   initializeApp
 } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
 import {
-  getDatabase, ref, child, set, onValue
+  getDatabase, ref, child, set, update, get, onValue
 } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-database.js";
 
 const firebaseConfig = {
@@ -20,7 +20,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 
-export { database, ref, child, set, onValue }
+export { database, ref, child, set, update, get, onValue }
 
 const CoachList = [
   {

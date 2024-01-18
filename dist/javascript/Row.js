@@ -8,7 +8,7 @@ const Options = {
   dateStyle: 'medium'
 }
 
-export function Row(key, { Team_1, Team_2, Gools_1, Gools_2, Coach, Time }) {
+export function Row(key, { Team_1, Team_2, Gools_1, Gools_2, Coach, Time, GameType }) {
   const Case = Gools_1 === Gools_2 ? 'draw' : Gools_1 > Gools_2 ? 'win' : 'loss';
   const date = new Date(Time).toLocaleDateString('en-US', Options);
 
@@ -18,6 +18,7 @@ export function Row(key, { Team_1, Team_2, Gools_1, Gools_2, Coach, Time }) {
     <td>${Team_1}</td>
     <td>${Gools_1}-${Gools_2}</td>
     <td>${Team_2}</td>
+    <td>${GameType}</td>
     <!--td>${Coach}</td-->
   </tr>
   `;

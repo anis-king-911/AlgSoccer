@@ -9,9 +9,9 @@ const CasesBg = {
 const CaseSt = item => item['Gools_1'] === item['Gools_2'] ? 'draw' : item['Gools_1'] > item['Gools_2'] ? 'win' : 'loss'
 
 async function LoadData(table, boxs, score) {
-  const databaseRef = await ref(database, 'AlgVs/');
+  const databaseRef = ref(database, 'AlgVs');
 
-  await onValue(databaseRef, async (snapshot) => {
+  onValue(databaseRef, async (snapshot) => {
     table.innerHTML = '';
 
     const { Row } = await import('./Row.js');
@@ -23,6 +23,7 @@ async function LoadData(table, boxs, score) {
     const gamesCases = games.map(item => CaseSt(item));
 
     boxs.forEach((box) => {
+      box.innerHTML = '';
       box.style.background = CasesBg[box.classList[1]];
       const casesSize = gamesCases.filter(i => i === box.classList[1]);
       box.innerHTML += `${casesSize.length} ${box.classList[1]}`;
@@ -34,6 +35,5 @@ async function LoadData(table, boxs, score) {
     score.innerHTML = `Scored ${scored}, received ${received}`;
   })
 }
-
 
 export default LoadData;

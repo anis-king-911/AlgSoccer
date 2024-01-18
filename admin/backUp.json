@@ -1,0 +1,1172 @@
+{
+  "AlgCoachList": {
+    "Christian Gourcuff": {
+      "Name": "Christian Gourcuff",
+      "Year": "2014-2016"
+    },
+    "George Leekens": {
+      "Name": "George Leekens",
+      "Year": "2016-2017"
+    },
+    "Jamal Belmadi": {
+      "Name": "Jamal Belmadi",
+      "Year": "2018-Now"
+    },
+    "Lucas Alcaraz": {
+      "Name": "Lucas Alcaraz",
+      "Year": "2017"
+    },
+    "Milovan Rajevac": {
+      "Name": "Milovan Rajevac",
+      "Year": "2016"
+    },
+    "Nabil Naghiz": {
+      "Name": "Nabil Naghiz",
+      "Year": "2016"
+    },
+    "Rabah Madjer": {
+      "Name": "Rabah Madjer",
+      "Year": "2017-2018"
+    },
+    "Vahid Halilhodzic": {
+      "Name": "Vahid Halilhodzic",
+      "Year": "2011-2014"
+    }
+  },
+  "AlgVs": {
+    "1315004400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1315004400000
+    },
+    "1318114800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "Central African Republic 🇨🇫",
+      "Time": 1318114800000
+    },
+    "1321052400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1321052400000
+    },
+    "1330470000000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GAMBIA 🇬🇲",
+      "Time": 1330470000000
+    },
+    "1337986800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGER 🇳🇪",
+      "Time": 1337986800000
+    },
+    "1338591600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "4",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "RWANDA 🇷🇼",
+      "Time": 1338591600000
+    },
+    "1338937200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1338937200000
+    },
+    "1339714800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "4",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GAMBIA 🇬🇲",
+      "Time": 1339714800000
+    },
+    "1347145200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "LIBYA 🇱🇾",
+      "Time": 1347145200000
+    },
+    "1350169200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "LIBYA 🇱🇾",
+      "Time": 1350169200000
+    },
+    "1352847600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "Bosnia and Herzegovina 🇧🇦",
+      "Time": 1352847600000
+    },
+    "1357945200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "0",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SOUTH AFRICA 🇿🇦",
+      "Time": 1357945200000
+    },
+    "1358809200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1358809200000
+    },
+    "1359154800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "0",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TOGO 🇹🇬",
+      "Time": 1359154800000
+    },
+    "1359500400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "IVORY COAST 🇨🇮",
+      "Time": 1359500400000
+    },
+    "1364252400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BENIN 🇧🇯",
+      "Time": 1364252400000
+    },
+    "1369436400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MAURITANIA 🇲🇷",
+      "Time": 1369436400000
+    },
+    "1370127600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURKINA FASO 🇧🇫",
+      "Time": 1370127600000
+    },
+    "1370732400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BENIN 🇧🇯",
+      "Time": 1370732400000
+    },
+    "1371337200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "RWANDA 🇷🇼",
+      "Time": 1371337200000
+    },
+    "1376434800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GUINEA 🇬🇳",
+      "Time": 1376434800000
+    },
+    "1378767600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1378767600000
+    },
+    "1381532400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURKINA FASO 🇧🇫",
+      "Time": 1381532400000
+    },
+    "1384815600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURKINA FASO 🇧🇫",
+      "Time": 1384815600000
+    },
+    "1393974000000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SLOVENIA 🇸🇮",
+      "Time": 1393974000000
+    },
+    "1401490800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ARMENIA 🇦🇲",
+      "Time": 1401490800000
+    },
+    "1401836400000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ROMANIA 🇷🇴",
+      "Time": 1401836400000
+    },
+    "1402959600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BELGIAN 🇧🇪",
+      "Time": 1402959600000
+    },
+    "1403391600000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "4",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SOUTH KOREAN 🇰🇷",
+      "Time": 1403391600000
+    },
+    "1403737200000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "RUSSIAN 🇷🇺",
+      "Time": 1403737200000
+    },
+    "1404082800000": {
+      "Coach": "Vahid Halilhodzic",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GERMAN 🇩🇪",
+      "Time": 1404082800000
+    },
+    "1409958000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ETHIOPIAN 🇪🇹",
+      "Time": 1409958000000
+    },
+    "1410303600000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1410303600000
+    },
+    "1412982000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALAWI 🇲🇼",
+      "Time": 1412982000000
+    },
+    "1413327600000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALAWI 🇲🇼",
+      "Time": 1413327600000
+    },
+    "1416006000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ETHIOPIAN 🇪🇹",
+      "Time": 1416006000000
+    },
+    "1416351600000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "0",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1416351600000
+    },
+    "1420930800000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1420930800000
+    },
+    "1421622000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SOUTH AFRICA 🇿🇦",
+      "Time": 1421622000000
+    },
+    "1421967600000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GHANA 🇬🇭",
+      "Time": 1421967600000
+    },
+    "1422313200000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SENEGAL 🇸🇳",
+      "Time": 1422313200000
+    },
+    "1422745200000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "1",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "IVORY COAST 🇨🇮",
+      "Time": 1422745200000
+    },
+    "1427324400000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "QATAR 🇶🇦",
+      "Time": 1427324400000
+    },
+    "1427670000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "4",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "OMAN 🇴🇲",
+      "Time": 1427670000000
+    },
+    "1434150000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "4",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SEYCHELLE 🇸🇨",
+      "Time": 1434150000000
+    },
+    "1441494000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "LESOTHO 🇱🇸",
+      "Time": 1441494000000
+    },
+    "1444345200000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GUINEA 🇬🇳",
+      "Time": 1444345200000
+    },
+    "1444690800000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SENEGAL 🇸🇳",
+      "Time": 1444690800000
+    },
+    "1447455600000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1447455600000
+    },
+    "1447714800000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "7",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1447714800000
+    },
+    "1458860400000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "7",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ETHIOPIAN 🇪🇹",
+      "Time": 1458860400000
+    },
+    "1459206000000": {
+      "Coach": "Christian Gourcuff",
+      "Gools_1": "3",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ETHIOPIAN 🇪🇹",
+      "Time": 1459206000000
+    },
+    "1464822000000": {
+      "Coach": "Nabil Naghiz",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SEYCHELLE 🇸🇨",
+      "Time": 1464822000000
+    },
+    "1472943600000": {
+      "Coach": "Milovan Rajevac",
+      "Gools_1": "6",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "LESOTHO 🇱🇸",
+      "Time": 1472943600000
+    },
+    "1475967600000": {
+      "Coach": "Milovan Rajevac",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "CAMERO 🇨🇲",
+      "Time": 1475967600000
+    },
+    "1478905200000": {
+      "Coach": "George Leekens",
+      "Gools_1": "1",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGERIA 🇳🇬",
+      "Time": 1478905200000
+    },
+    "1483743600000": {
+      "Coach": "George Leekens",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MAURITANIA 🇲🇷",
+      "Time": 1483743600000
+    },
+    "1484434800000": {
+      "Coach": "George Leekens",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZIMBABWE 🇿🇼",
+      "Time": 1484434800000
+    },
+    "1484780400000": {
+      "Coach": "George Leekens",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1484780400000
+    },
+    "1485126000000": {
+      "Coach": "George Leekens",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SENEGAL 🇸🇳",
+      "Time": 1485126000000
+    },
+    "1496703600000": {
+      "Coach": "George Leekens",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GUINEA 🇬🇳",
+      "Time": 1496703600000
+    },
+    "1497135600000": {
+      "Coach": "George Leekens",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TOGO 🇹🇬",
+      "Time": 1497135600000
+    },
+    "1504306800000": {
+      "Coach": "Lucas Alcaraz",
+      "Gools_1": "1",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZAMBIA 🇿🇲",
+      "Time": 1504306800000
+    },
+    "1504566000000": {
+      "Coach": "Lucas Alcaraz",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZAMBIA 🇿🇲",
+      "Time": 1504566000000
+    },
+    "1507330800000": {
+      "Coach": "Lucas Alcaraz",
+      "Gools_1": "0",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "CAMERO 🇨🇲",
+      "Time": 1507330800000
+    },
+    "1510268400000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGERIA 🇳🇬",
+      "Time": 1510268400000
+    },
+    "1510614000000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "Central African Republic 🇨🇫",
+      "Time": 1510614000000
+    },
+    "1521673200000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "4",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1521673200000
+    },
+    "1522105200000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "IRAN 🇮🇷",
+      "Time": 1522105200000
+    },
+    "1525820400000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "0",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SAUDI ARABIA 🇸🇦",
+      "Time": 1525820400000
+    },
+    "1527807600000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "2",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "CAPE VERDE 🇨🇻",
+      "Time": 1527807600000
+    },
+    "1528326000000": {
+      "Coach": "Rabah Madjer",
+      "Gools_1": "0",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "PORTUGAL 🇵🇹",
+      "Time": 1528326000000
+    },
+    "1536361200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GAMBIA 🇬🇲",
+      "Time": 1536361200000
+    },
+    "1539298800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BENIN 🇧🇯",
+      "Time": 1539298800000
+    },
+    "1539644400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BENIN 🇧🇯",
+      "Time": 1539644400000
+    },
+    "1542495600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "4",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TOGO 🇹🇬",
+      "Time": 1542495600000
+    },
+    "1545865200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "QATAR 🇶🇦",
+      "Time": 1545865200000
+    },
+    "1553209200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GAMBIA 🇬🇲",
+      "Time": 1553209200000
+    },
+    "1553554800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1553554800000
+    },
+    "1560207600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURUNDI 🇧🇮",
+      "Time": 1560207600000
+    },
+    "1560639600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "3",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1560639600000
+    },
+    "1561244400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "KENYA 🇰🇪",
+      "Time": 1561244400000
+    },
+    "1561590000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SENEGAL 🇸🇳",
+      "Time": 1561590000000
+    },
+    "1561935600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1561935600000
+    },
+    "1562454000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GUINEA 🇬🇳",
+      "Time": 1562454000000
+    },
+    "1562799600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "IVORY COAST 🇨🇮",
+      "Time": 1562799600000
+    },
+    "1563058800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGERIA 🇳🇬",
+      "Time": 1563058800000
+    },
+    "1563490800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SENEGAL 🇸🇳",
+      "Time": 1563490800000
+    },
+    "1567983600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BENIN 🇧🇯",
+      "Time": 1567983600000
+    },
+    "1570662000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "DR CONGO 🇨🇩",
+      "Time": 1570662000000
+    },
+    "1571094000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "COLOMBIA 🇨🇴",
+      "Time": 1571094000000
+    },
+    "1573686000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "5",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZAMBIA 🇿🇲",
+      "Time": 1573686000000
+    },
+    "1574031600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BOTSWANA 🇧🇼",
+      "Time": 1574031600000
+    },
+    "1602198000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGERIA 🇳🇬",
+      "Time": 1602198000000
+    },
+    "1602543600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MEXICO 🇲🇽",
+      "Time": 1602543600000
+    },
+    "1605135600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZIMBABWE 🇿🇼",
+      "Time": 1605135600000
+    },
+    "1605481200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZIMBABWE 🇿🇼",
+      "Time": 1605481200000
+    },
+    "1616626800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "3",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ZAMBIA 🇿🇲",
+      "Time": 1616626800000
+    },
+    "1616972400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "5",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BOTSWANA 🇧🇼",
+      "Time": 1616972400000
+    },
+    "1622674800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "4",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MAURITANIA 🇲🇷",
+      "Time": 1622674800000
+    },
+    "1622934000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1622934000000
+    },
+    "1623366000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1623366000000
+    },
+    "1630537200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "8",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "DJIBOUTI 🇩🇯",
+      "Time": 1630537200000
+    },
+    "1630969200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURKINA FASO 🇧🇫",
+      "Time": 1630969200000
+    },
+    "1633647600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "6",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGER 🇳🇪",
+      "Time": 1633647600000
+    },
+    "1633993200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "4",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGER 🇳🇪",
+      "Time": 1633993200000
+    },
+    "1636671600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "4",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "DJIBOUTI 🇩🇯",
+      "Time": 1636671600000
+    },
+    "1637017200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURKINA FASO 🇧🇫",
+      "Time": 1637017200000
+    },
+    "1641337200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GHANA 🇬🇭",
+      "Time": 1641337200000
+    },
+    "1641855600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "0",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SIERRA LION 🇸🇱",
+      "Time": 1641855600000
+    },
+    "1642287600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "EQUATORIAL GUINEA 🇬🇶",
+      "Time": 1642287600000
+    },
+    "1642633200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "1",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "IVORY COAST 🇨🇮",
+      "Time": 1642633200000
+    },
+    "1648162800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "CAMEROUN 🇨🇲",
+      "Time": 1648162800000
+    },
+    "1648508400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "1",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "CAMEROUN 🇨🇲",
+      "Time": 1648508400000
+    },
+    "1654297200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "UGANDA 🇺🇬",
+      "Time": 1654297200000
+    },
+    "1654642800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1654642800000
+    },
+    "1654988400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "IRAN 🇮🇷",
+      "Time": 1654988400000
+    },
+    "1663887600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "GUINEA 🇬🇳",
+      "Time": 1663887600000
+    },
+    "1664233200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIGERIA 🇳🇬",
+      "Time": 1664233200000
+    },
+    "1668553200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MALI 🇲🇱",
+      "Time": 1668553200000
+    },
+    "1668812400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "0",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SWEDEN 🇸🇪",
+      "Time": 1668812400000
+    },
+    "1679529600000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIJER 🇳🇪",
+      "Time": 1679529600000
+    },
+    "1679875200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "NIJER 🇳🇪",
+      "Time": 1679875200000
+    },
+    "1687046400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "2",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "UGANDA 🇺🇬",
+      "Time": 1687046400000
+    },
+    "1687219200000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TUNISIA 🇹🇳",
+      "Time": 1687219200000
+    },
+    "1694044800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations Qualifying",
+      "Gools_1": "0",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TANZANIA 🇹🇿",
+      "Time": 1694044800000
+    },
+    "1694476800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SENEGAL 🇸🇳",
+      "Time": 1694476800000
+    },
+    "1697068800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "5",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "CAPE VERDE 🇨🇻",
+      "Time": 1697068800000
+    },
+    "1697414400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "EGYPT 🇪🇬",
+      "Time": 1697414400000
+    },
+    "1700092800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "3",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SOMALIA 🇸🇴",
+      "Time": 1700092800000
+    },
+    "1700352000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "FIFA World Cup Qualifying - CAF",
+      "Gools_1": "2",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MOZAMBIQUE 🇲🇿",
+      "Time": 1700352000000
+    },
+    "1704412800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "3",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "TOGO 🇹🇬",
+      "Time": 1704412800000
+    },
+    "1704758400000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "International Friendly",
+      "Gools_1": "4",
+      "Gools_2": "0",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURUNDI 🇧🇮",
+      "Time": 1704758400000
+    },
+    "1705276800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "1",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "ANGOLA 🇦🇴",
+      "Time": 1705276800000
+    }
+  }
+}

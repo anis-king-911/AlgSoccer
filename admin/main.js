@@ -12,6 +12,7 @@ form.addEventListener('submit', async (event) => {
     'Gools_1': form.Gools_1.value,
     'Gools_2': form.Gools_2.value,
     'Time': new Date(form.date.value).getTime(),
+    'Game_Type': form.GameType.value
   }
 
   insertData(obj);
