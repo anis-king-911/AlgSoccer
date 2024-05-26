@@ -10,7 +10,7 @@
     },
     "Jamal Belmadi": {
       "Name": "Jamal Belmadi",
-      "Year": "2018-Now"
+      "Year": "2018-2024"
     },
     "Lucas Alcaraz": {
       "Name": "Lucas Alcaraz",
@@ -31,6 +31,10 @@
     "Vahid Halilhodzic": {
       "Name": "Vahid Halilhodzic",
       "Year": "2011-2014"
+    },
+    "Vladimir Petkovic": {
+      "Name": "Vladimir Petkovic",
+      "Year": "2024-Now"
     }
   },
   "AlgVs": {
@@ -1167,6 +1171,42 @@
       "Team_1": "ALGERIA 🇩🇿",
       "Team_2": "ANGOLA 🇦🇴",
       "Time": 1705276800000
+    },
+    "1705708800000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "2",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BURKINA FASO 🇧🇫",
+      "Time": 1705708800000
+    },
+    "1705968000000": {
+      "Coach": "Jamal Belmadi",
+      "GameType": "Africa Cup of Nations",
+      "Gools_1": "0",
+      "Gools_2": "1",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "MAURITANIA 🇲🇷",
+      "Time": 1705968000000
+    },
+    "1711065600000": {
+      "Coach": "Vladimir Petkovic",
+      "GameType": "International Friendly",
+      "Gools_1": "3",
+      "Gools_2": "2",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "BOLIVIA 🇧🇴",
+      "Time": 1711065600000
+    },
+    "1711411200000": {
+      "Coach": "Vladimir Petkovic",
+      "GameType": "International Friendly",
+      "Gools_1": "3",
+      "Gools_2": "3",
+      "Team_1": "ALGERIA 🇩🇿",
+      "Team_2": "SOUTH AFRICA 🇿🇦",
+      "Time": 1711411200000
     }
   }
 }
