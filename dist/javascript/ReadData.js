@@ -1,4 +1,5 @@
 import { database, ref, onValue } from './export.js';
+const CurrentCoach = 'Vladimir Petkovic';
 
 const CasesBg = {
   'win': '#4ade80',
@@ -16,10 +17,10 @@ async function LoadData(table, boxs, score) {
 
     const { Row } = await import('./Row.js');
     Object.entries(snapshot.val()).reverse().map(([key, data]) => {
-      data['Coach'] === 'Jamal Belmadi' ? table.innerHTML += Row(key, data) : '';
+      data['Coach'] === CurrentCoach ? table.innerHTML += Row(key, data) : '';
     })
 
-    const games = Object.values(snapshot.val()).filter(item => item['Coach'] === 'Jamal Belmadi');
+    const games = Object.values(snapshot.val()).filter(item => item['Coach'] === CurrentCoach);
     const gamesCases = games.map(item => CaseSt(item));
 
     boxs.forEach((box) => {
