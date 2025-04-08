@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alg Vs 25</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <script type="module" src="./main.js"></script>
+</head>
+
+<body>
+  <header class="w-full bg-slate-200 py-4 gap-4 flex items-center justify-center">
+    <a class="text-sky-500 underline font-bold" href="/">Home Page</a>
+    <a class="text-sky-500 underline font-bold" href="/admin.html">Admin Page</a>
+  </header>
+
+  <fieldset class="w-96 border-2 border-black rounded-sm mx-auto mt-4">
+    <legend class="ml-4 bg-black text-white rounded-sm px-2 py-0.5">New Game</legend>
+
+    <form autocomplete="off" class="flex flex-col gap-2 p-2">
+      <div class="grid">
+        <label for="date">Date</label>
+        <input type="date" name="date" id="date" class="border border-black rounded-sm px-2 py-0.5" />
+      </div>
+      <div class="grid">
+        <label for="game type">Game Type</label>
+        <select name="game type" id="game type" class="border border-black rounded-sm px-2 py-0.5">
+          <option hidden selected>-- Game Type --</option>
+          <option value="International Friendly">International Friendly</option>
+          <option value="Africa Cup of Nations">Africa Cup of Nations</option>
+          <option value="Africa Cup of Nations Qualifying">Africa Cup of Nations Qualifying</option>
+          <option value="FIFA World Cup Qualifying - CAF">FIFA World Cup Qualifying - CAF</option>
+          <option value="FIFA World Cup">FIFA World Cup</option>
+        </select>
+      </div>
+      <div class="grid">
+        <label for="coach">Coach</label>
+        <input type="text" name="coach" id="coach" value="Vladimir Petkovic"
+          class="border border-black rounded-sm px-2 py-0.5" />
+      </div>
+      <div class="grid gap-2">
+        <span>Score</span>
+        <div class="flex gap-2">
+          <input type="text" name="Opponent_01" id="Opponent_01" value="ALGERIA"
+            class="border border-black rounded-sm px-2 py-0.5 w-[70%]" />
+          <input type="number" name="Score_01" id="Score_01" placeholder="Alg Score"
+            class="border border-black rounded-sm px-2 py-0.5  w-[30%]" />
+        </div>
+        <div class="flex gap-2">
+          <input type="text" name="Opponent_02" id="Opponent_02" placeholder="Opponent"
+            class="border border-black rounded-sm px-2 py-0.5  w-[70%]" />
+          <input type="number" name="Score_02" id="Score_02" placeholder="Op Score"
+            class="border border-black rounded-sm px-2 py-0.5  w-[30%]" />
+        </div>
+      </div>
+
+      <div class="grid">
+        <label for="Opponent Flag">Opponent Flag</label>
+        <input type="url" name="Opponent Flag" id="Opponent Flag" placeholder="Opponent Flag"
+          class="border border-black rounded-sm px-2 py-0.5" />
+      </div>
+
+      <button type="submit" class="bg-emerald-300 border border-black rounded-sm">Insert</button>
+    </form>
+  </fieldset>
+</body>
+
+</html>

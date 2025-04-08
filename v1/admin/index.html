@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>AlgSoccer | Admin</title>
+
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./main.js"></script>
+</head>
+
+<body>
+<fieldset>
+  <legend>Insert New Game</legend>
+
+  <form>
+    <div class="FormDate">
+      <label for="date">Date</label>
+      <input type="date" name="date" id="date" />
+    </div>
+    <div class="FormGroup">
+      <label for="GameType">Game Type</label>
+      <select name="GameType" id="GameType">
+        <option value="International Friendly">International Friendly</option>
+        <option value="Africa Cup of Nations">Africa Cup of Nations</option>
+        <option value="Africa Cup of Nations Qualifying">Africa Cup of Nations Qualifying</option>
+        <option value="FIFA World Cup Qualifying - CAF">FIFA World Cup Qualifying - CAF</option>
+        <option value="FIFA World Cup">FIFA World Cup</option>
+      </select>
+    </div>
+    <div class="FormCoach">
+      <label for="Coach">Coach</label>
+      <input type="text" name="Coach" id="Coach" value="Vladimir Petkovic" placeholder="coach">
+    </div>
+    <label for="Team_2">Score</label>
+    <div class="FormScore">
+      <input type="text" name="Team_1" id="Team_1" value="ALGERIA 🇩🇿">
+      <input type="number" name="Gools_1" id="Gools_1" placeholder="Alg scor">
+      <input type="text" name="Team_2" id="Team_2" placeholder="team 2">
+      <input type="number" name="Gools_2" id="Gools_2" placeholder="team 2 scor">
+    </div>
+    <button>submit</button>
+  </form>
+</fieldset>
+
+</body>
+
+</html>
