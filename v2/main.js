@@ -56,9 +56,14 @@ const CasesBg = {
   "draw": "amber"
 }
 
+console.log(window.document.location.pathname);
+
+
 if (
-  window.document.location.pathname === "/" ||
-  window.document.location.pathname === "/index.hmtl"
+  window.document.location.pathname === "/v2/"
+  // ||
+  // window.document.location.pathname === "/index.hmtl" ||
+  // window.document.location.pathname.includes("./admin.html")
 ) {
   const DataTable = document?.querySelector("#DataTable tbody");
   const StatisticsTable = document?.querySelector("#StatisticsTable tbody");
