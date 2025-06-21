@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>CSV to Appwrite Importer</title>
+</head>
+
+<body>
+  <input type="file" id="csvFile" accept=".csv" />
+  <button id="uploadBtn">Upload to Appwrite</button>
+
+  <script type="module">
+    import { Client, Databases } from "https://cdn.jsdelivr.net/npm/appwrite@18.1.1/+esm";
+
+    const client = new Client()
+      .setEndpoint("https://cloud.appwrite.io/v1")
+      .setProject("6855bf2f0005ae17f1c6") // Replace
+      .setKey("standard_7a337cfad8e3e2813c4de6f8cc0b4fecabafca8d3339e76af137a674453359fa38a88daebb13ed4d1c2f89f6febf36c205a94f4fc762ec147131f739804110379d68c67d5d698b70debcc66a761e9b19566143679cf715739174d7e140b0c75a4cd145f7d9cc6394cba6095813a32e46efba5bf0dcb55247b22fc9e4083e1c81");       // Replace
+
+    const databases = new Databases(client);
+
+    // const DATABASE_ID = "algvs_db";
+    // const COLLECTION_ID = "algvs";
+
+    const databaseId = "algvs_db";     // Replace
+    const collectionId = "algvs"; // Replace
+
+    // Utility to parse CSV string to JSON
+    function parseCSV(csvText) {
+      const lines = csvText.trim().split("\n");
+      const headers = lines[0].split(",").map(h => h.trim().toLowerCase());
+
+      return lines.slice(1).map(line => {
+        const values = line.split(",").map(v => v.trim());
+        const obj = {};
+        headers.forEach((h, i) => {
+          obj[h] = values[i];
+        });
+
+        return {
+          opponentname: obj.opponentname,
+          opponentflag: obj.opponentflag,
+          opponentscore: Number(obj.opponentscore),
+          algeriascore: Number(obj.algeriascore),
+          date: new Date(obj.date).toISOString(), // Appwrite expects ISO 8601
+          coachname: obj.coachname,
+          event: obj.event
+        };
+      });
+    }
+
+    document.getElementById("uploadBtn").addEventListener("click", async () => {
+      const fileInput = document.getElementById("csvFile");
+      if (!fileInput.files.length) return alert("Please select a CSV file.");
+
+      const file = fileInput.files[0];
+      const text = await file.text();
+      const records = parseCSV(text);
+
+      for (const record of records) {
+        try {
+          await databases.createDocument(databaseId, collectionId, 'unique()', record);
+          console.log(`Uploaded: ${record.opponentname} (${record.date})`);
+        } catch (err) {
+          console.error("Failed to insert document:", err);
+        }
+      }
+
+      alert("Upload complete!");
+    });
+  </script>
+</body>
+
+</html>

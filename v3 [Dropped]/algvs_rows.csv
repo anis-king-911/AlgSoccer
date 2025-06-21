@@ -1,0 +1,149 @@
+id,opponentname,opponentflag,opponentscore,algeriascore,date,coachname,event
+1,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,1,1,2011-09-03 00:00:00,Vahid Halilhodzic,Africa Cup of Nations Qualifying
+2,Central African Republic,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_174.png,0,2,2011-10-09 00:00:00,Vahid Halilhodzic,Africa Cup of Nations Qualifying
+3,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,0,1,2011-11-12 00:00:00,Vahid Halilhodzic,International Friendly
+4,Gambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_198.png,1,2,2012-02-29 00:00:00,Vahid Halilhodzic,Africa Cup of Nations Qualifying
+5,Niger,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_141.png,0,3,2012-05-26 00:00:00,Vahid Halilhodzic,International Friendly
+6,Rwanda,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_138.png,0,4,2012-06-02 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+7,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,2,1,2012-06-06 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+8,Gambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_198.png,1,4,2012-06-15 00:00:00,Vahid Halilhodzic,Africa Cup of Nations Qualifying
+9,Libya,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_111.png,0,1,2012-09-09 00:00:00,Vahid Halilhodzic,Africa Cup of Nations Qualifying
+10,Libya,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_111.png,0,2,2012-10-14 00:00:00,Vahid Halilhodzic,Africa Cup of Nations Qualifying
+11,Bosnia And Herzegovina,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_73.png,1,0,2012-11-14 00:00:00,Vahid Halilhodzic,International Friendly
+12,South Africa,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_137.png,0,0,2013-01-12 00:00:00,Vahid Halilhodzic,International Friendly
+13,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,1,0,2013-01-22 00:00:00,Vahid Halilhodzic,Africa Cup of Nations
+14,Togo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_184.png,2,0,2013-01-26 00:00:00,Vahid Halilhodzic,Africa Cup of Nations
+15,Ivory Coast,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_132.png,2,2,2013-01-30 00:00:00,Vahid Halilhodzic,Africa Cup of Nations
+16,Benin,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_170.png,1,3,2013-03-26 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+17,Mauritania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_207.png,0,1,2013-05-25 00:00:00,Vahid Halilhodzic,International Friendly
+18,Burkina Faso,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_166.png,0,2,2013-06-02 00:00:00,Vahid Halilhodzic,International Friendly
+19,Benin,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_170.png,1,3,2013-06-09 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+20,Rwanda,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_138.png,0,1,2013-06-16 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+21,Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_225.png,2,2,2013-08-14 00:00:00,Vahid Halilhodzic,International Friendly
+22,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,0,1,2013-09-10 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+23,Burkina Faso,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_166.png,3,2,2013-10-12 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+24,Burkina Faso,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_166.png,0,1,2013-11-19 00:00:00,Vahid Halilhodzic,FIFA World Cup Qualifying - CAF
+25,Slovenia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_66.png,0,1,2014-03-05 00:00:00,Vahid Halilhodzic,International Friendly
+26,Armenia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_70.png,1,3,2014-05-31 00:00:00,Vahid Halilhodzic,International Friendly
+27,Romania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_24.png,1,2,2014-06-04 00:00:00,Vahid Halilhodzic,International Friendly
+28,Belgian,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_23.png,2,1,2014-06-17 00:00:00,Vahid Halilhodzic,FIFA World Cup
+29,South Korean,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_6.png,2,4,2014-06-22 00:00:00,Vahid Halilhodzic,FIFA World Cup
+30,Russian,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_1.png,1,1,2014-06-26 00:00:00,Vahid Halilhodzic,FIFA World Cup
+31,German,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_7.png,2,1,2014-06-30 00:00:00,Vahid Halilhodzic,FIFA World Cup
+32,Ethiopian,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_119.png,1,2,2014-09-06 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+33,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,0,1,2014-09-10 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+34,Malawi,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_142.png,0,2,2014-10-11 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+35,Malawi,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_142.png,0,3,2014-10-15 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+36,Ethiopian,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_119.png,1,3,2014-11-15 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+37,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,2,0,2014-11-19 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+38,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,1,1,2015-01-11 00:00:00,Christian Gourcuff,International Friendly
+39,South Africa,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_137.png,1,3,2015-01-19 00:00:00,Christian Gourcuff,Africa Cup of Nations
+40,Ghana,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_143.png,1,0,2015-01-23 00:00:00,Christian Gourcuff,Africa Cup of Nations
+41,Senegal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_121.png,0,2,2015-01-27 00:00:00,Christian Gourcuff,Africa Cup of Nations
+42,Ivory Coast,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_132.png,3,1,2015-02-01 00:00:00,Christian Gourcuff,Africa Cup of Nations
+43,Qatar,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_74.png,1,0,2015-03-26 00:00:00,Christian Gourcuff,International Friendly
+44,Oman,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_107.png,1,4,2015-03-30 00:00:00,Christian Gourcuff,International Friendly
+45,Seychelle,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_178.png,0,4,2015-06-13 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+46,Lesotho,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_219.png,1,3,2015-09-06 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+47,Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_225.png,2,1,2015-10-09 00:00:00,Christian Gourcuff,International Friendly
+48,Senegal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_121.png,0,1,2015-10-13 00:00:00,Christian Gourcuff,International Friendly
+49,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,2,2,2015-11-14 00:00:00,Christian Gourcuff,FIFA World Cup Qualifying - CAF
+50,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,0,7,2015-11-17 00:00:00,Christian Gourcuff,FIFA World Cup Qualifying - CAF
+51,Ethiopian,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_119.png,1,7,2016-03-25 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+52,Ethiopian,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_119.png,3,3,2016-03-29 00:00:00,Christian Gourcuff,Africa Cup of Nations Qualifying
+53,Seychelle,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_178.png,0,2,2016-06-02 00:00:00,Nabil Naghiz,Africa Cup of Nations Qualifying
+54,Lesotho,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_219.png,0,6,2016-09-04 00:00:00,Milovan Rajevac,Africa Cup of Nations Qualifying
+55,Cameroun,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_134.png,1,1,2016-10-09 00:00:00,Milovan Rajevac,FIFA World Cup Qualifying - CAF
+56,Nigeria,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_71.png,3,1,2016-11-12 00:00:00,George Leekens,FIFA World Cup Qualifying - CAF
+57,Mauritania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_207.png,1,3,2017-01-07 00:00:00,George Leekens,International Friendly
+58,Zimbabwe,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_164.png,2,2,2017-01-15 00:00:00,George Leekens,Africa Cup of Nations
+59,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,2,1,2017-01-19 00:00:00,George Leekens,Africa Cup of Nations
+60,Senegal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_121.png,2,2,2017-01-23 00:00:00,George Leekens,Africa Cup of Nations
+61,Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_225.png,1,2,2017-06-06 00:00:00,George Leekens,International Friendly
+62,Togo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_184.png,0,1,2017-06-11 00:00:00,George Leekens,Africa Cup of Nations Qualifying
+63,Zambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_148.png,3,1,2017-09-02 00:00:00,Lucas Alcaraz,FIFA World Cup Qualifying - CAF
+64,Zambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_148.png,1,0,2017-09-05 00:00:00,Lucas Alcaraz,FIFA World Cup Qualifying - CAF
+65,Cameroun,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_134.png,2,0,2017-10-07 00:00:00,Lucas Alcaraz,FIFA World Cup Qualifying - CAF
+66,Nigeria,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_71.png,0,3,2017-11-10 00:00:00,Rabah Madjer,FIFA World Cup Qualifying - CAF
+67,Central African Republic,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_174.png,0,3,2017-11-14 00:00:00,Rabah Madjer,International Friendly
+68,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,1,4,2018-03-22 00:00:00,Rabah Madjer,International Friendly
+69,Iran,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_57.png,2,1,2018-03-27 00:00:00,Rabah Madjer,International Friendly
+70,Saudi Arabia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_46.png,2,0,2018-05-09 00:00:00,Rabah Madjer,International Friendly
+71,Cape Verde,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_169.png,3,2,2018-06-01 00:00:00,Rabah Madjer,International Friendly
+72,Portugal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_128.png,3,0,2018-06-07 00:00:00,Rabah Madjer,International Friendly
+73,Gambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_198.png,1,1,2018-09-08 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+74,Benin,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_170.png,0,2,2018-10-12 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+75,Benin,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_170.png,1,0,2018-10-16 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+76,Togo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_184.png,1,4,2018-11-18 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+77,Qatar,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_74.png,0,1,2018-12-27 00:00:00,Jamal Belmadi,International Friendly
+78,Gambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_198.png,1,1,2019-03-22 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+79,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,0,1,2019-03-26 00:00:00,Jamal Belmadi,International Friendly
+80,Burundi,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_133.png,1,1,2019-06-11 00:00:00,Jamal Belmadi,International Friendly
+81,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,2,3,2019-06-16 00:00:00,Jamal Belmadi,International Friendly
+82,Kenya,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_91.png,0,2,2019-06-23 00:00:00,Jamal Belmadi,Africa Cup of Nations
+83,Senegal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_121.png,0,1,2019-06-27 00:00:00,Jamal Belmadi,Africa Cup of Nations
+84,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,0,3,2019-07-01 00:00:00,Jamal Belmadi,Africa Cup of Nations
+85,Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_225.png,0,3,2019-07-07 00:00:00,Jamal Belmadi,Africa Cup of Nations
+86,Ivory Coast,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_132.png,1,1,2019-07-11 00:00:00,Jamal Belmadi,Africa Cup of Nations
+87,Nigeria,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_71.png,1,2,2019-07-14 00:00:00,Jamal Belmadi,Africa Cup of Nations
+88,Senegal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_121.png,0,1,2019-07-19 00:00:00,Jamal Belmadi,Africa Cup of Nations
+89,Benin,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_170.png,0,1,2019-09-09 00:00:00,Jamal Belmadi,International Friendly
+90,Dr Congo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_114.png,1,1,2019-10-10 00:00:00,Jamal Belmadi,International Friendly
+91,Colombia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_44.png,0,3,2019-10-15 00:00:00,Jamal Belmadi,International Friendly
+92,Zambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_148.png,0,5,2019-11-14 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+93,Botswana,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_191.png,0,1,2019-11-18 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+94,Nigeria,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_71.png,0,1,2020-10-09 00:00:00,Jamal Belmadi,International Friendly
+95,Mexico,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_13.png,2,2,2020-10-13 00:00:00,Jamal Belmadi,International Friendly
+96,Zimbabwe,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_164.png,1,3,2020-11-12 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+97,Zimbabwe,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_164.png,2,2,2020-11-16 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+98,Zambia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_148.png,3,3,2021-03-25 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+99,Botswana,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_191.png,0,5,2021-03-29 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+100,Mauritania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_207.png,1,4,2021-06-03 00:00:00,Jamal Belmadi,International Friendly
+101,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,0,1,2021-06-06 00:00:00,Jamal Belmadi,International Friendly
+102,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,0,2,2021-06-11 00:00:00,Jamal Belmadi,International Friendly
+103,Djibouti,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_163.png,0,8,2021-09-02 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+104,Burkina Faso,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_166.png,1,1,2021-09-07 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+105,Niger,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_141.png,1,6,2021-10-08 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+106,Niger,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_141.png,0,4,2021-10-12 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+107,Djibouti,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_163.png,0,4,2021-11-12 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+108,Burkina Faso,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_166.png,2,2,2021-11-16 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+109,Ghana,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_143.png,0,3,2022-01-05 00:00:00,Jamal Belmadi,International Friendly
+110,Sierra Lion,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_196.png,0,0,2022-01-11 00:00:00,Jamal Belmadi,Africa Cup of Nations
+111,Equatorial Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_186.png,1,0,2022-01-16 00:00:00,Jamal Belmadi,Africa Cup of Nations
+112,Ivory Coast,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_132.png,3,1,2022-01-20 00:00:00,Jamal Belmadi,Africa Cup of Nations
+113,Cameroun,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_134.png,0,1,2022-03-25 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+114,Cameroun,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_134.png,2,1,2022-03-29 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+115,Uganda,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_139.png,0,2,2022-06-04 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+116,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,0,2,2022-06-08 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+117,Iran,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_57.png,1,2,2022-06-12 00:00:00,Jamal Belmadi,International Friendly
+118,Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_225.png,0,1,2022-09-23 00:00:00,Jamal Belmadi,International Friendly
+119,Nigeria,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_71.png,1,2,2022-09-27 00:00:00,Jamal Belmadi,International Friendly
+120,Mali,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_159.png,1,1,2022-11-16 00:00:00,Jamal Belmadi,International Friendly
+121,Sweden,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_17.png,2,0,2022-11-19 00:00:00,Jamal Belmadi,International Friendly
+122,Niger,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_141.png,1,2,2023-03-23 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+123,Niger,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_141.png,0,1,2023-03-27 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+124,Uganda,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_139.png,1,2,2023-06-18 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+125,Tunisia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_103.png,1,1,2023-06-20 00:00:00,Jamal Belmadi,International Friendly
+126,Tanzania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_135.png,0,0,2023-09-07 00:00:00,Jamal Belmadi,Africa Cup of Nations Qualifying
+127,Senegal,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_121.png,0,1,2023-09-12 00:00:00,Jamal Belmadi,International Friendly
+128,Cape Verde,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_169.png,1,5,2023-10-12 00:00:00,Jamal Belmadi,International Friendly
+129,Egypt,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_33.png,1,1,2023-10-16 00:00:00,Jamal Belmadi,International Friendly
+130,Somalia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_112.png,1,3,2023-11-16 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+131,Mozambique,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_130.png,0,2,2023-11-19 00:00:00,Jamal Belmadi,FIFA World Cup Qualifying - CAF
+132,Togo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_184.png,0,3,2024-01-05 00:00:00,Jamal Belmadi,International Friendly
+133,Burundi,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_133.png,0,4,2024-01-09 00:00:00,Jamal Belmadi,International Friendly
+134,Angola,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_157.png,1,1,2024-01-15 00:00:00,Jamal Belmadi,Africa Cup of Nations
+135,Burkina Faso,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_166.png,2,2,2024-01-20 00:00:00,Jamal Belmadi,Africa Cup of Nations
+136,Mauritania,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_207.png,1,0,2024-01-23 00:00:00,Jamal Belmadi,Africa Cup of Nations
+137,Bolivia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_81.png,2,3,2024-03-22 00:00:00,Vladimir Petkovic,International Friendly
+138,South Africa,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_137.png,3,3,2024-03-26 00:00:00,Vladimir Petkovic,International Friendly
+139,Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_225.png,2,1,2024-06-06 00:00:00,Vladimir Petkovic,FIFA World Cup Qualifying - CAF
+140,Uganda,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_139.png,1,2,2024-06-10 00:00:00,Vladimir Petkovic,FIFA World Cup Qualifying - CAF
+141,Equatorial Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_186.png,0,2,2024-09-05 00:00:00,Vladimir Petkovic,Africa Cup of Nations Qualifying
+142,Liberia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_197.png,0,3,2024-09-10 00:00:00,Vladimir Petkovic,Africa Cup of Nations Qualifying
+143,Togo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_184.png,1,5,2024-10-10 00:00:00,Vladimir Petkovic,Africa Cup of Nations Qualifying
+144,Togo,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_184.png,0,1,2024-10-14 00:00:00,Vladimir Petkovic,Africa Cup of Nations Qualifying
+145,Equatorial Guinea,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_186.png,0,0,2024-11-14 00:00:00,Vladimir Petkovic,Africa Cup of Nations Qualifying
+146,Liberia,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_197.png,1,5,2024-11-17 00:00:00,Vladimir Petkovic,Africa Cup of Nations Qualifying
+147,Botswana,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_191.png,1,3,2025-03-21 00:00:00,Vladimir Petkovic,FIFA World Cup Qualifying - CAF
+148,Mozambique,https://gxdpkrwfrlqnxjiqxrnh.supabase.co/storage/v1/object/public/algvs/countries-flags/image_130.png,1,5,2025-03-25 00:00:00,Vladimir Petkovic,FIFA World Cup Qualifying - CAF
